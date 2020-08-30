@@ -22,22 +22,22 @@ The following steps assume you're using a Linux OS, but the steps for a Windows 
 
 1. Clone the repository
 
- $ ```git clone https://github.com/ariveron/boilerplate-pmm-vcpkg-cmake```
+   $ ```git clone https://github.com/ariveron/boilerplate-pmm-vcpkg-cmake```
 
 2. Go into the repo directory
 
- $ ```cd boilerplate-pmm-vcpkg-cmake```
+   $ ```cd boilerplate-pmm-vcpkg-cmake```
 
 3. Run CMAKE to create the build files
 
- $ ```cmake .```
+   $ ```cmake .```
 
 4. Use CMAKE to build the project
 
- $ ```cmake --build .```
+   $ ```cmake --build .```
 
 5. You should now be able to run the program
 
- $ ```./bin/main```
+   $ ```./bin/main```
 
- ```The answer is 42```
+   ```The answer is 42```
