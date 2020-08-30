@@ -42,7 +42,7 @@ The following steps assume you're using a Linux OS, but the steps for a Windows 
 
    ```The answer is 42```
 
-### Adding and removing packages
+## Adding and removing packages
 
 In the root level ```CMakeLists.txt``` file, within the ```pmm``` CMAKE function, you can see where the VCPKG ```REVISION``` is specified as the ```master``` branch of the VCPKG repositor. You can change this to a revision or a tag so that the VCPKG version used is the same on every build.
 
